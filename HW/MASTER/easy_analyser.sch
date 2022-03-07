@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "easy_analyser"
 Date "2022-03-01"
-Rev "v1.0"
+Rev "v0.1"
 Comp ""
 Comment1 ""
 Comment2 ""
