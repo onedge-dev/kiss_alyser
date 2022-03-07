@@ -477,6 +477,21 @@ X ~ 9 -150 50 100 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# headers_header_01x02_male
+#
+DEF headers_header_01x02_male J 0 20 Y Y 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "headers_header_01x02_male" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S 109 -95 75 -105 1 1 5 F
+S 109 5 75 -5 1 1 15 F
+X ~ 1 0 0 100 R 50 50 1 1 P
+X ~ 2 0 -100 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # leds_LED
 #
 DEF leds_LED D 0 0 N N 1 F N
