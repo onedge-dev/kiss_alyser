@@ -13,3 +13,8 @@ _autosave-*
 fp-info-cache
 # Netlist files (exported from Eeschema)
 *.net
+
+
+
+# Ignore documentation for now
+DOCS/
