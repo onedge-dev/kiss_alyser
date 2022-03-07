@@ -3482,7 +3482,7 @@ $EndComp
 Text Notes 4875 4525 0    50   ~ 0
 100nF for each\nVDD pin + 1uF\nfor each VDDA\npin.
 $Comp
-L headers:Header_02x10_Male J2
+L headers:header_02x10_male J2
 U 1 1 640C1D2E
 P 10500 3450
 F 0 "J2" H 10350 4025 50  0000 L CNN

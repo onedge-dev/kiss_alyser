@@ -426,11 +426,26 @@ X GND 4 50 -200 100 U 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# headers_Header_02x10_Male
+# headers_header_01x02_male
 #
-DEF headers_Header_02x10_Male J 0 40 Y N 1 F N
+DEF headers_header_01x02_male J 0 20 Y Y 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "headers_header_01x02_male" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S 109 -95 75 -105 1 1 5 F
+S 109 5 75 -5 1 1 15 F
+X ~ 1 0 0 100 R 50 50 1 1 P
+X ~ 2 0 -100 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# headers_header_02x10_male
+#
+DEF headers_header_02x10_male J 0 40 Y N 1 F N
 F0 "J" -150 550 50 H V C CNN
-F1 "headers_Header_02x10_Male" 0 -550 50 H V C CNN
+F1 "headers_header_02x10_male" 0 -550 50 H V C CNN
 F2 "" -200 100 50 H I C CNN
 F3 "" -200 100 50 H I C CNN
 DRAW
@@ -474,21 +489,6 @@ X ~ 6 150 250 100 L 50 50 1 1 P
 X ~ 7 -150 150 100 R 50 50 1 1 P
 X ~ 8 150 150 100 L 50 50 1 1 P
 X ~ 9 -150 50 100 R 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# headers_header_01x02_male
-#
-DEF headers_header_01x02_male J 0 20 Y Y 1 F N
-F0 "J" 0 100 50 H V C CNN
-F1 "headers_header_01x02_male" 0 -200 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-S 109 -95 75 -105 1 1 5 F
-S 109 5 75 -5 1 1 15 F
-X ~ 1 0 0 100 R 50 50 1 1 P
-X ~ 2 0 -100 100 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
