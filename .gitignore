@@ -19,3 +19,21 @@ fp-info-cache
 # Ignore documentation for now
 DOCS/
 gerbers/
+
+
+
+# Eclipse CDT project files
+.cproject
+.mxproject
+.settings/
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
