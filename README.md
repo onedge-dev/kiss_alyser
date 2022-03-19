@@ -1,4 +1,4 @@
-# kiss_alyser
+# KISS alyser
 
 ## Table of contents
 * [General info](#general-info)
@@ -22,8 +22,6 @@ The device we made is supposed to be a cost effective logic analyser with 16 cha
 ## Technologies
 Project is created with:
 - KiCad v5.1.12
-- STM32CubeMX v6.3.0
-- STM32CubeIDE v1.7.0
 <br><br><br>
 
 
